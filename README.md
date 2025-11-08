@@ -1,8 +1,11 @@
 # Operating Systems Project 3: Multi-User Chat Server
 
 **Course:** Operating Systems  
+
 **Project:** Network Programming - Implement A Simple Chat Server  
+
 **Authors:** Nathnael Bereketab and Jonathan Abeje  
+
 **Date:** November 2024
 
 ---
